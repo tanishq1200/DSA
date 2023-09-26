@@ -1,4 +1,4 @@
-//GFG
+//GFG :- https://practice.geeksforgeeks.org/problems/key-pair5616/1
 class Solution{
 public:	
 	bool twopointer(int arr[] , int n, int x){
