@@ -1,3 +1,4 @@
+//GFG
 class Solution{
 public:	
 	bool twopointer(int arr[] , int n, int x){
